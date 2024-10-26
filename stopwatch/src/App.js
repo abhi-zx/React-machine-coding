@@ -4,7 +4,7 @@ import CircleFollower from './Stopwatch';
 function App() {
   return (
     <div className="App">
-      <CircleFollower />
+      <CircleFollower/>
     </div>
   );
 }
